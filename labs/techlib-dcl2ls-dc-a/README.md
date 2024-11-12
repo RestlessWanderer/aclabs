@@ -1,4 +1,4 @@
-# TechLibrary EVPN Domain-A Lab
+# TechLibrary Data Center - L2LS Data Center - A Lab
 
 This lab is tested for:  
 
@@ -8,7 +8,7 @@ This lab is tested for:
     memory: 64 GB  
     storage: 128 GB  
 
-Last reviewed: 02/10/2024
+Last reviewed: 11/12/2024
 
 To inspect the lab details use `make inspect` shortcut. This will list the host names and management addresses for all lab devices.
 To connect to any device use:
